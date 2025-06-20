@@ -96,3 +96,6 @@ Welcome to the beginner-friendly, hands-on tutorial series for learning **Seleni
 - 🧱 Page Object Model (POM) design pattern  
 - 🧪 Integration with `pytest` or `unittest`  
 
+## Yow will get the day wise tutorial by following below link
+https://drive.google.com/drive/folders/1T1zdpjr_X5Avzci38tiDmETRObHAw7Bb?usp=sharing
+ 
